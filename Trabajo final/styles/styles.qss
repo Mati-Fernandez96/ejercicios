@@ -1,0 +1,26 @@
+QWidget {
+    background-color: #7b778c;    
+}
+
+
+QLabel {
+    background-color: #FFFFFF;
+    font-size: 50px;
+    min-width: 1366;
+    max-width: 1366;
+    min-height: 50;
+    max-height: 500; 
+
+
+}
+
+QPushButton {
+    background-color: #2ABf9E;
+    padding: 1px;
+    font-size: 20px;
+    min-width: 300;
+    max-width: 300;
+    min-height: 50;
+    max-height: 300;
+    vertical-align: bottom; 
+}
